@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="141307b7-2106-493b-853b-705a5c975d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ec2/.terraform.lock.hcl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/windows_386/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/.terraform/providers/registry.terraform.io/hashicorp/aws/5.87.0/windows_386/terraform-provider-aws_v5.87.0_x5.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/dev.tfvars" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/terraform.tfstate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/terraform.tfstate.backup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ec2/variables.tf" afterDir="false" />
-    </list>
+    <list default="true" id="141307b7-2106-493b-853b-705a5c975d58" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ec2" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,

@@ -1,0 +1,20 @@
+# Ignore Terraform state files and backup
+*.tfstate
+*.tfstate.backup
+
+# Ignore Terraform lock file
+.terraform.lock.hcl
+
+# Ignore Terraform working directory
+.terraform/
+
+# Ignore local variable files (optional)
+*.tfvars
+*.tfvars.json
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore log and temp files
+*.log
+.DS_Store
