@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="141307b7-2106-493b-853b-705a5c975d58" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ec2/calculator.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ec2" beforeDir="false" afterPath="$PROJECT_DIR$/ec2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ec2/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/ec2/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ec2/output.tf" beforeDir="false" afterPath="$PROJECT_DIR$/ec2/output.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ec2/terraform.tfstate" beforeDir="false" afterPath="$PROJECT_DIR$/ec2/terraform.tfstate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ec2/terraform.tfstate.backup" beforeDir="false" afterPath="$PROJECT_DIR$/ec2/terraform.tfstate.backup" afterDir="false" />
     </list>
